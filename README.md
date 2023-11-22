@@ -3,7 +3,7 @@
 
 
 ### 👨‍💻 What I Do
-I'm currently a Senior Product Designer working on a crypto wallet app used by millions.
+I'm currently managing the design team at @blockchain.
 In my spare time, I work on side projects to keep my coding skills sharp, play video games, and rewatch Star Wars movies and shows incessantly. 
 
 
